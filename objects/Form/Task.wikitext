@@ -1,0 +1,7 @@
+{{{info|add title=New Task|edit title=Edit Task|page name=C<unique number;random;10>}}}
+{{FormHeader|Task}}
+  !ManagedBy
+  |{{{field|ManagedBy|input type=dropdown|values from category=Participant}}}
+{{StandardFormSections}}
+{{FormFooter}}
+<noinclude>[[Category:TaskManagementOntology]]</noinclude>

@@ -1,0 +1,4 @@
+<includeonly>{{METADATA|Keywords={{{HasKeyword|}}}|HasEntityTitle={{{HasEntityTitle}}}|HasEntityBlurb={{{HasEntityBlurb|}}}|HasEntityType=Task}}
+{{Annotation|AnnotationPredicate=ManagedBy|AnnotationObjects={{{ManagedBy|}}}}}
+</includeonly>
+<noinclude>[[Category:TaskManagementOntology]]</noinclude>
